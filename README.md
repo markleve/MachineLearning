@@ -8,6 +8,11 @@ To access the Jupyter Notebooks, you need to have Jupyter Notebook installed. Li
 https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
 
 
+Maximize the usability of Jupyter Notebook by installing ezxtensions (for example the extension for collapsing headings): 
+https://ndres.me/post/best-jupyter-notebook-extensions/
+
+(guide to how to install the posibility of adding extensions, and then how to add extensions afterwards)
+
 ## Installing python libraries
 
 To run all the code in the Jupyter Notebooks, you also need to install all Python libraries that are used in the notebook. To install libraries, use the following commando in a command prompt (Terminal on mac) to install the library:
