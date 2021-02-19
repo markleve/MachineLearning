@@ -18,3 +18,8 @@ Where the <name_of_library> is the name of a python library; for example numpy, 
 
 Note: if you have installed the Jupyter Notebook through an Anaconda installation, you need to install the libraries through the "Anaconda prompt" (instead of the command prompt). An anaconda prompt is installed with the Anaconda installation, and just open this instead of the command prompt. Then write the command "pip install <name_of_library>" there.
 
+## Kaggle - compete in machine learning
+
+Link to Kaggle: https://www.kaggle.com/
+
+Use Kaggle to get datasets and compete in data science.
