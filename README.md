@@ -1,2 +1,3 @@
 # MachineLearning
-Jupyter notebook connected to Machine Learning
+
+Information connected to Machine Learning and how to start exploring data science.
